@@ -1,16 +1,17 @@
-### Hi there 👋
+# Merhaba, Ben Anıl
 
-<!--
-**anilklc/anilklc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Merhaba, ben Anıl. İstanbul'da yaşıyorum.
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Şu anda C# (.NET) , ASP.NET CORE (Restful,WEB API) alanlarıylailgilenmekteyim ve bu alanlarla çalışmalar yapmaktayım..
+- 💼 İlgilendiğim Alanlar: C#,ASP.NET CORE,JAVA,JAVA FX,MSSQL,MYSQL
+- 📚 Sürekli öğrenmeye ve gelişmeye açığım.
+
+
+## İletişim
+
+Benimle aşağıdaki platformlardan biri üzerinden iletişime geçebilirsiniz:
+
+- LinkedIn: [LinkedIn Profilinizin Linki](https://www.linkedin.com/in/anilklic/)
+- Mail: anil.klc@hotmail.com
