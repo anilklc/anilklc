@@ -4,7 +4,7 @@
 
 ## Hakkımda
 
-- 🌱 Şu anda C# (.NET) , ASP.NET CORE (Restful,WEB API) alanlarıylailgilenmekteyim ve bu alanlarla çalışmalar yapmaktayım..
+- 🌱 Şu anda C# (.NET) , ASP.NET CORE (Restful,WEB API) alanlarıyla ilgilenmekteyim ve bu alanlarla ilgili çalışmalar yapmaktayım..
 - 💼 İlgilendiğim Alanlar: C#,ASP.NET CORE,JAVA,JAVA FX,MSSQL,MYSQL
 - 📚 Sürekli öğrenmeye ve gelişmeye açığım.
 
