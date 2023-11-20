@@ -13,5 +13,5 @@
 
 Benimle aşağıdaki platformlardan biri üzerinden iletişime geçebilirsiniz:
 
-- LinkedIn: [LinkedIn Profilinizin Linki](https://www.linkedin.com/in/anilklic/)
+- LinkedIn: [LinkedIn Profilimin Linki](https://www.linkedin.com/in/anilklic/)
 - Mail: anil.klc@hotmail.com
