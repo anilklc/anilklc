@@ -1,4 +1,4 @@
-# Hello, I'm Anil
+# Hello, I'm Anıl
 
 👋 Hello, I'm Anıl. I live in Istanbul.
 
