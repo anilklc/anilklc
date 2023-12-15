@@ -1,3 +1,21 @@
+# Hello, I'm Anil
+
+👋 Hello, I'm Anıl. I live in Istanbul.
+
+## About me
+
+- 🌱 I am currently interested in C# (.NET), ASP.NET CORE (Restful, WEB API) and I am working on these areas.
+- 💼 Areas of Interest: C#,ASP.NET CORE,JAVA,JAVA FX,MSSQL,MYSQL
+- 📚 I am open to continuous learning and development.
+
+
+## 📚 Contact
+
+You can contact me through one of the following platforms:
+
+- LinkedIn: [Link to my LinkedIn Profile](https://www.linkedin.com/in/anilklic/)
+- Mail: anil.klc@hotmail.com
+**************************************
 # Merhaba, Ben Anıl
 
 👋 Merhaba, ben Anıl. İstanbul'da yaşıyorum.
